@@ -1,5 +1,5 @@
-# Machine-Learning
-<br>
+# Machine-Learning<br>
+
 ### Assignment 1
 
 #### Q1
