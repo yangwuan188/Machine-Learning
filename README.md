@@ -19,6 +19,7 @@
 #### Q4
 * Training with SGD and mini-batch gradient decent.
 * calculating MSE over test data.
+<<<<<<< HEAD
 
 <br>
 
@@ -43,3 +44,5 @@
 * Modify a Autoencoder architecture.
 * Feed the noisy images inito the atuoencoder, calculate the reconstruction error between original images and output of autoencoder.
 * Evaluate the autoencoder on test data and display the worstest 30 reconstructed images. 
+=======
+>>>>>>> 60d2e2a614060bbf2c0d941490dde04d64267c12
