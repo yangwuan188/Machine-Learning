@@ -19,7 +19,7 @@
 #### Q4
 * Training with SGD and mini-batch gradient decent.
 * calculating MSE over test data.
-<<<<<<< HEAD
+
 
 <br>
 
